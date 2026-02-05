@@ -16,7 +16,7 @@
 #include <utility>
 #include <vector>
 
-#define MOONCAKE_VERSION "2.3.0"
+#define MOONCAKE_VERSION "2.3.3"
 
 namespace mooncake {
 
